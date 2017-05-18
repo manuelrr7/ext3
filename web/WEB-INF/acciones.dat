@@ -1,0 +1,6 @@
+provincias=ajaxmvc.modelo.acciones.AccionProvincias
+poblaciones=ajaxmvc.modelo.acciones.AccionPoblaciones
+calles=ajaxmvc.modelo.acciones.AccionCalles
+borrar=ajaxmvc.modelo.acciones.AccionBorrarCliente
+datos=ajaxmvc.modelo.acciones.AccionDatosCliente
+registrar=ajaxmvc.modelo.acciones.AccionRegistrar
